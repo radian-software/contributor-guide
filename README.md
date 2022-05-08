@@ -97,7 +97,7 @@ changelog should be assumed to be running the last release.
 * [Apheleia](https://github.com/raxod502/apheleia/blob/master/CHANGELOG.md)
 * [Blackout](https://github.com/raxod502/blackout/blob/master/CHANGELOG.md)
 * [CTRLF](https://github.com/raxod502/ctrlf/blob/master/CHANGELOG.md)
-* [`diary-manager`](https://github.com/raxod502/diary-manager/blob/master/CHANGELOG.md)
+* [`diary-manager`](https://github.com/radian-software/diary-manager/blob/master/CHANGELOG.md)
 * [`el-patch`](https://github.com/raxod502/el-patch/blob/master/CHANGELOG.md)
 * [`prescient.el`](https://github.com/raxod502/prescient.el/blob/master/CHANGELOG.md)
 * [Selectrum](https://github.com/raxod502/selectrum/blob/master/CHANGELOG.md)
