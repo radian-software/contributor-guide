@@ -19,9 +19,9 @@ following:
   [markdown-toc](https://www.npmjs.com/package/markdown-toc) for this
   to work!*
 
-The linters are run automatically against your pull request by
-[CircleCI](https://circleci.com/). All pull requests must pass CI
-before being merged.
+The linters are run automatically against your pull request by [GitHub
+Actions](https://docs.github.com/en/actions). All pull requests must
+pass CI before being merged.
 
 One reason the CI can fail even though `make lint` worked for you is
 that your code doesn't work in an older version of Emacs. CircleCI
@@ -40,7 +40,9 @@ in their name) needs furthermore to be explained in the README.
 
 ## How to write a changelog
 
-We also write changelogs. The changelog is kept in `CHANGELOG.md`.
+We also write changelogs (in most projects; unfortunately
+`straight.el` doesn't have one yet). The changelog is kept in
+`CHANGELOG.md`.
 
 The idea of the changelog is to document *user-visible* changes to the
 project in a *user-readable* way (unlike the commit history, which is
