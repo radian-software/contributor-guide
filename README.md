@@ -3,6 +3,38 @@
 This repository has some handy instructions on contributing to my
 open-source projects.
 
+## LLMs
+
+I do not outright ban the use of LLMs in contributions to my projects.
+**However** (and note that this applies to bug reports, pull requests,
+security notices, discussions, and anything else):
+
+* If you use LLMs, I expect you to not only meet but exceed the
+  quality standards that hold for other contributors. It's a burden to
+  evaluate whether LLM-related contributions are even worth the time
+  to read (they usually aren't), and you need to make up for this in
+  the quality of your own work.
+* You must understand *everything* you submit. There is absolutely no
+  excuse for submitting any code, documentation, or discussion comment
+  that you do not personally understand and can explain (yourself -
+  not asking an LLM to generate an explanation).
+    * With human contributions, there is some leeway in terms of "I
+      found this workaround, I don't understand why it works, but it
+      might be helpful". With LLMs, this leeway does not exist; it's
+      an incredible drag to sort through LLM-generated bad ideas and
+      hypotheticals.
+* Your work must not degrade the development and contribution
+  experience for other people who don't use LLMs. Do not introduce
+  code that will be a nuisance to maintain by hand, on the assumption
+  that everyone else will be using LLMs too.
+* By submitting work, you are certifying that you hold the sole
+  copyright to that work and that you have the sole authority to
+  release it under the license of the project you are contributing to.
+  Mentioning that an LLM was involved does not absolve you of this
+  legal responsibility. If the use of an LLM means you are unable to
+  legally attest that you own the full copyright to your contribution,
+  then you cannot use that LLM.
+
 ## Linters
 
 Most of my projects include automated linters to improve code quality.
